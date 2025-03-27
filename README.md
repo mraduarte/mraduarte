@@ -8,7 +8,7 @@
 - 🔭 Currently working on personal projects
 - 🌱 Studying React.js on Udemy
 - 📫 Reach me at: mcduarte9@hotmail.com  
-- 📄 Learn more: [LinkedIn](https://www.linkedin.com/in/maria-clara-duarte-69b00b211/)
+- 📄 Learn more: [LinkedIn](https://www.linkedin.com/in/mariaclarad/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
