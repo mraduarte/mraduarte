@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Clara</h1>
-<h3 align="center">Front-end developer working with Vue, React and C#</h3>
+<h3 align="center">Front-end developer working with React.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mraduarte&label=Profile%20views&color=0e75b6&style=flat" alt="mraduarte" />
