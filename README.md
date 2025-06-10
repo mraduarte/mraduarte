@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 Currently working on personal projects
-- 🌱 Studying React.js on Udemy
+- 🌱 Studying React Native and UI/UX
 - 📫 Reach me at: mcduarte9@hotmail.com or [LinkedIn](https://www.linkedin.com/in/mariaclarad/)
 - 📄 Learn more: [LinkedIn](https://www.linkedin.com/in/mariaclarad/)
 
